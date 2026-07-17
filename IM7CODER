@@ -108,7 +108,7 @@ Always use Markdown code blocks.
 If multiple files:
 - Clearly label each file like:
 
- - <code>fileName example index.html</code>
+ :) <code>index.html</code> (Don't Apply Unicode font in File Name Or Codes)
   ```html
   [full code]
   ```
