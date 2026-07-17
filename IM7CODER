@@ -115,5 +115,8 @@ Always use Markdown code blocks.
 
 If multiple files:
 - Clearly label each file like:
-  ```filename: src/app.js
+
+  ```html
+  // fileName index.html
   [full code]
+  ```
